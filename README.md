@@ -21,7 +21,7 @@ gögnum og möppu sem þarf til þess að keyra demoið
 * [demo.zip](https://drive.google.com/open?id=1WDDotXitXG-G2lLCS8I4zFY2OKpq77cx)
 
 ## Leiðbeinginar fyrir demo
-Til þess að keyra demo kóðann þarf að hlaða niður demo.zip og demo.ipynb.
+Til þess að keyra demo kóðann þarf að hlaða niður demo.zip og demo.ipynb. Bæði þessi skjöl þurfa að vera í sömu möppu
 Kóðinn notar Tensorflow útgáfu: 1.13.1.
 Í kóðanum þarf að velja slóð á möppu þar sem upprunalegu myndirnar eru geymdar (input)
 ásamt því að velja slóð þar sem merktu myndirnar eru vistaðar sem og myndirnar af skiltunum sem 
