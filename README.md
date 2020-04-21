@@ -4,8 +4,8 @@ Verkefnið er eftir __Baldvin Kára Magnússon__ og __Bjarka Bernardsson__. Mark
 að nota tauganet til þess að greina og flokka umferðarskilti út frá myndum. 
 ## Yfirlit
 
-* data.zip - Inniheldur pickle files fyrir training og test gögn ásamt
-.csv file fyrir nöfn á flokkum.
+* demo.ipynb - Kóði sem hægt er að keyra á eigin myndum til þess að prófa,
+sjá leiðbeiningar fyrir neðan
 * Classifier_train.ipynb - Inniheldur kóða sem notaður var til að þjálfa
 módelið sem sá um að flokka skiltin
 * DataAug - Mappan inniheldur kóða sem notaður var til þess að setja gagnasett á rétt form
