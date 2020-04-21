@@ -1,0 +1,49 @@
+20 Hættuleg beygja til hægri                          100.00%
+13 Biðskylda                                           99.72%
+10 Frammúrakstur vörubifreiða bannaður                 99.55%
+33 Hægri beygja framundan                              99.52%
+ 9 Frammúrakstur bannaður                              99.17%
+34 Vinstri beygja framundan                            99.17%
+44 Þéttbýli endar                                      98.55%
+ 2 Hámarkshraði (50 km/klst)                           98.53%
+45 Banna að leggja                                     98.37%
+32 Afnám banna                                         98.33%
+16 Akstur vörubifreiða bannaður                        98.00%
+29 Hljóðreiðamenn                                      97.78%
+ 1 Hámarkshraði (30 km/klst)                           97.50%
+17 Innakstur bannaður                                  96.94%
+11 Umferð á vegi á forgang                             96.90%
+ 8 Hámarkshraði (120 km/klst)                          96.67%
+15 Allur Akstur bannaður                               96.67%
+14 Stöðvunarskylda                                     96.30%
+31 Hreindýr                                            96.30%
+12 Aðalbraut                                           96.09%
+38 Aksturstefna til hægri                              95.65%
+35 Aktu Áfram                                          94.36%
+ 3 Hámarkshraði (60 km/klst)                           94.22%
+ 0 Hámarkshraði (20 km/klst)                           93.33%
+23 Sleipur vegur                                       93.33%
+ 4 Hámarkshraði (70 km/klst)                           93.03%
+36 Áfram eða til hægri                                 92.50%
+22 Ósléttur vegur                                      91.67%
+25 Vegavinna                                           91.46%
+ 5 Hámarkshraði (80 km/klst)                           90.79%
+19 Hættuleg beygja til vinstri                         90.00%
+39 Aksturstefna til vinstri                            87.78%
+42 Banni við framúrakstri vörubifreiða lokið           87.78%
+28 Börn                                                87.33%
+ 6 Hámarkshraða lokið (80 km/klst)                     85.33%
+26 Umferðarljós                                        83.33%
+37 Áfram eða til vinstri                               83.33%
+41 Banni við framúrakstri lokið                        83.33%
+40 Hringakstur                                         81.11%
+ 7 Hámarkshraði (100 km/klst)                          80.44%
+18 Önnur hætta                                         79.74%
+43 Hámarkshraði (90 km/klst)                           73.43%
+46 Götuskilti                                          70.64%
+24 Vegur mjókkar frá hægri                             62.22%
+21 Hættulegar beygjur, fyrst til vinstri               58.89%
+30 Ísing á vegi                                        58.00%
+27 Gangbraut framundan                                 50.00%
+--------------------------------------------------
+Accuracy: Mean: 89.215 Std: 12.077
