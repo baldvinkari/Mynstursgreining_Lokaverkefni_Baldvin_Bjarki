@@ -13,3 +13,11 @@ módelið sem sá um að flokka skiltin
 * Object_detection.ipynb - Inniheldur kóða sem notaður var til að þjálfa 
 módelið sem sá um að greina skiltin
 * myndir - Mappan inniheldur myndir sem notaðar voru við kynningu á módelum þann 20.apríl
+* nidurstodur.txt -  Accuracy niðurstöður fyrir hvern flokk í classifier
+
+## Slóð á gagnasett og slóð á módel
+Þar sem stærð skjalana er of stór fyrir Github eru hér slóðir til þess að halaða niður
+gögnum og möppu sem þarf til þess að keyra demoið
+
+* [Gagnasett](https://drive.google.com/file/d/1f3to_pi7YVEL1JBbiX31P37aEPMDEb-m/view?usp=sharing)
+* [demo.zip](https://drive.google.com/open?id=1WDDotXitXG-G2lLCS8I4zFY2OKpq77cx)
