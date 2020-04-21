@@ -10,8 +10,6 @@ sjá leiðbeiningar fyrir neðan
 módelið sem sá um að flokka skiltin
 * DataAug - Mappan inniheldur kóða sem notaður var til þess að setja gagnasett á rétt form
 ásamt kóða sem notaður var til þess að búa til margar útgáfur af sömu mynd
-* Object_detection.ipynb - Inniheldur kóða sem notaður var til að þjálfa 
-módelið sem sá um að greina skiltin
 * myndir - Mappan inniheldur myndir sem notaðar voru við kynningu á módelum þann 20.apríl
 * nidurstodur.txt -  Accuracy niðurstöður fyrir hvern flokk í classifier
 
@@ -21,3 +19,10 @@ gögnum og möppu sem þarf til þess að keyra demoið
 
 * [Gagnasett](https://drive.google.com/file/d/1f3to_pi7YVEL1JBbiX31P37aEPMDEb-m/view?usp=sharing)
 * [demo.zip](https://drive.google.com/open?id=1WDDotXitXG-G2lLCS8I4zFY2OKpq77cx)
+
+## Leiðbeinginar fyrir demo
+Til þess að keyra demo kóðann þarf að hlaða niður demo.zip og demo.ipynb.
+Kóðinn notar Tensorflow útgáfu: 1.13.1.
+Í kóðanum þarf að velja slóð á möppu þar sem upprunalegu myndirnar eru geymdar (input)
+ásamt því að velja slóð þar sem merktu myndirnar eru vistaðar sem og myndirnar af skiltunum sem 
+forritið býr til 
